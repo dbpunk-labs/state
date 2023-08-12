@@ -1,5 +1,5 @@
 % Statistics for dbpunk-labs/db3.js
-% Generated for [dbpunk-labs/db3.js](https://github.com/dbpunk-labs/db3.js) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-08-11 23:10 UTC.
+% Generated for [dbpunk-labs/db3.js](https://github.com/dbpunk-labs/db3.js) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2023-08-12 23:10 UTC.
 
 
 ## Views
@@ -75,7 +75,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `coinsbench.com`, 02: `github.com`, 03: `blog.db3.network`, 04: `docs.db3.network`, 05: `t.co`, 06: `db3-network-crud-todomvc-demo.imotai.repl.co`, 07: `oschina.net`, 08: `tododemo--imotai.repl.co`, 09: `dev.to`, 10: `Google`, 11: `dbpunk-labs.github.io`, 12: `medium.com`, 13: `gitee.com`, 14: `wx.qq.com`, 15: `Bing`
+Top 15 referrers: 01: `coinsbench.com`, 02: `github.com`, 03: `blog.db3.network`, 04: `docs.db3.network`, 05: `t.co`, 06: `db3-network-crud-todomvc-demo.imotai.repl.co`, 07: `oschina.net`, 08: `dev.to`, 09: `tododemo--imotai.repl.co`, 10: `Google`, 11: `gitee.com`, 12: `dbpunk-labs.github.io`, 13: `medium.com`, 14: `awesome-web3.com`, 15: `illacloud.com`
 
 
 
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `coinsbench.com`, 02: `github.com`, 03: `blog.db3.network`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/main/examples/todomvc`, 03: `/tree/main/src`, 04: `/issues`, 05: `/pulls`, 06: `/tree/main/examples`, 07: `/blob/main/examples/todomvc/REAEMD.md`, 08: `/pull/11`, 09: `/issues/4`, 10: `/tree/main/examples/todomvc/src`, 11: `/issues/40`, 12: `/pull/86`, 13: `/tree/main/src/wallet`, 14: `/blob/main/examples/todomvc/src/reducer.ts`, 15: `/pull/30`
+Top 15 paths: 01: `/`, 02: `/tree/main/examples/todomvc`, 03: `/tree/main/src`, 04: `/issues`, 05: `/pulls`, 06: `/tree/main/examples`, 07: `/blob/main/examples/todomvc/REAEMD.md`, 08: `/issues/4`, 09: `/pull/11`, 10: `/blob/main/examples/helloworld/src/App.tsx`, 11: `/tree/main/examples/todomvc/src`, 12: `/issues/40`, 13: `/pull/69`, 14: `/pull/86`, 15: `/pull/80`
 
 
 <script type="text/javascript">
