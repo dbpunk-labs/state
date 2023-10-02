@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dbpunk-labs/octogen,1164,554
+/dbpunk-labs/octopus,473,1
+/dbpunk-labs/octopus/pulls,175,1
+/dbpunk-labs/octogen/issues,119,18
+/dbpunk-labs/octogen/pulls,115,3
+/dbpunk-labs/octopus/issues,86,1
+/dbpunk-labs/octopus/actions,80,1
+/dbpunk-labs/octopus/actions/workflows/release_libraries.yml,63,1
+/dbpunk-labs/octogen/tree/main,60,9
+/dbpunk-labs/octogen/blob/main/README.md,57,3
